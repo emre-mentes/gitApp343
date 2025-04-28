@@ -10,7 +10,7 @@ public class Main {
         System.out.println("yeniden merhaba");
 
 
-
+        System.out.println(" iyi geceler");
 
 
     }
